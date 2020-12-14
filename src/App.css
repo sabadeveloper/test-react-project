@@ -1,0 +1,59 @@
+.lion {
+  width: 400px;
+  height: 250px;
+  display: inline;
+  margin-right: 4vh;
+}
+
+.main-div {
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+.filmebi-div {
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 15px;
+  color: gray;
+}
+
+.fantastika {
+  color: aliceblue;
+  height: 60px;
+  cursor: pointer;
+  text-decoration: none;
+  color: red;
+  background-color: darkblue;
+  border-style: inset;
+}
+
+.drama {
+  color: aliceblue;
+  height: 60px;
+  margin-bottom: 175px;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: darkblue;
+  border-style: inset;
+}
+
+.fanjumanji:hover {
+  text-decoration: none;
+  font-size: 30px;
+  color: red;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.dramatitaniki:hover {
+  text-decoration: none;
+  font-size: 30px;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}

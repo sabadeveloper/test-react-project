@@ -1,0 +1,30 @@
+$myColor: red;
+$mywidth: 400px;
+$myFontWeight: bold;
+$myFontSize: 20px;
+
+.titanikidiv {
+  border-style: dotted;
+  display: inline-block;
+  background-color: yellow;
+  position: absolute;
+  left: 500px;
+  top: 300px;
+  .titanikip {
+    width: $mywidth;
+    height: 120px;
+    color: $myColor;
+    font-weight: $myFontWeight;
+    font-size: $myFontSize;
+    font-style: oblique;
+  }
+}
+
+.jumanjip {
+  width: $mywidth;
+  height: 150px;
+  color: $myColor;
+  font-weight: $myFontWeight;
+  font-size: myFontSize;
+  font-style: oblique;
+}

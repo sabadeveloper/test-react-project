@@ -1,0 +1,22 @@
+.navbar {
+  width: 50%;
+  height: 4vh;
+  display: inline-block;
+  text-align: center;
+}
+
+.border {
+  font-size: 45px;
+  font-weight: bold;
+  color: rgb(173, 0, 107);
+  text-decoration: none;
+  border-style: mixed;
+}
+
+.border:hover {
+  border-style: mixed;
+  height: 10vh;
+  width: 20vw;
+  cursor: pointer;
+  background-color: rgb(230, 255, 4);
+}
