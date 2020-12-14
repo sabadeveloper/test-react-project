@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/test-react-project/static/css/main.acd1c5a9.chunk.css",
+    "main.js": "/test-react-project/static/js/main.d09f88db.chunk.js",
+    "main.js.map": "/test-react-project/static/js/main.d09f88db.chunk.js.map",
+    "runtime-main.js": "/test-react-project/static/js/runtime-main.cd467eaf.js",
+    "runtime-main.js.map": "/test-react-project/static/js/runtime-main.cd467eaf.js.map",
+    "static/js/2.6277cdef.chunk.js": "/test-react-project/static/js/2.6277cdef.chunk.js",
+    "static/js/2.6277cdef.chunk.js.map": "/test-react-project/static/js/2.6277cdef.chunk.js.map",
+    "static/js/3.d023a877.chunk.js": "/test-react-project/static/js/3.d023a877.chunk.js",
+    "static/js/3.d023a877.chunk.js.map": "/test-react-project/static/js/3.d023a877.chunk.js.map",
+    "index.html": "/test-react-project/index.html",
+    "static/css/main.acd1c5a9.chunk.css.map": "/test-react-project/static/css/main.acd1c5a9.chunk.css.map",
+    "static/js/2.6277cdef.chunk.js.LICENSE.txt": "/test-react-project/static/js/2.6277cdef.chunk.js.LICENSE.txt",
+    "static/media/avangers.669355e9.jpg": "/test-react-project/static/media/avangers.669355e9.jpg",
+    "static/media/jumnaji.ef9c55f6.jpg": "/test-react-project/static/media/jumnaji.ef9c55f6.jpg",
+    "static/media/lion.133bc426.jpg": "/test-react-project/static/media/lion.133bc426.jpg",
+    "static/media/logo.6ce24c58.svg": "/test-react-project/static/media/logo.6ce24c58.svg",
+    "static/media/movie.0bca8038.jpg": "/test-react-project/static/media/movie.0bca8038.jpg",
+    "static/media/pantera.9aaa2beb.jpg": "/test-react-project/static/media/pantera.9aaa2beb.jpg",
+    "static/media/titaniki.1e17fb4c.jpg": "/test-react-project/static/media/titaniki.1e17fb4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd467eaf.js",
+    "static/js/2.6277cdef.chunk.js",
+    "static/css/main.acd1c5a9.chunk.css",
+    "static/js/main.d09f88db.chunk.js"
+  ]
+}
